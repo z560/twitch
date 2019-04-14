@@ -27,7 +27,7 @@ About useful twitch something.
 > + [擴充功能](https://www.twitch.tv/broadcast/dashboard/extensions)
 > + [進階自訂介面](https://forum.gamer.com.tw/C.php?bsn=60592&snA=2176)
 > + [圖奇意見回覆](https://help.twitch.tv/customer/portal/emails/new)
-> # 精選圖奇指南：
+> ### 精選圖奇指南
 > > + [手機訂閱](https://help.twitch.tv/customer/zh_tw/portal/articles/2812403-訂閱方式#SubThurSubs)
 > > + [圖奇指南](https://help.twitch.tv/customer/zh_tw/portal/articles)
 > > + [社群規範](https://help.twitch.tv/customer/zh_tw/portal/articles/983016-社群規範)
