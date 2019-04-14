@@ -18,7 +18,6 @@
 ![](shiauherx60) ![](shiauherx600.png)  
 ![](shiutomx60) ![](shiutomx600.png)  
 ![](silver0301x60) ![](silver0301x600.png)  
-![](swallowf1ipx60) ![](swallowf1ipx600.png)  
 ![](tachilolzx60) ![](tachilolzx600.png)  
 ![](takuto_skyx60) ![](takuto_skyx600.png)  
 ![](tuna0127x60) ![](tuna0127x600.png)  
