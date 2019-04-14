@@ -16,7 +16,7 @@ About useful twitch something.
 > + [Discord](http://discordapp.com)
 >> + [Mee6機器人](https://mee6.xyz)
 > + [Curse(TwtichAPP)](https://app.twitch.tv/download)
-> + 規劃：
+> ### + 規劃
 >> + 房間規劃
 >> + 隱藏房間
 >> + 權限設定
