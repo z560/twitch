@@ -1,4 +1,4 @@
-# 大頭照縮圖和原圖  
+# 縮圖和原圖  
 ![](alongz_x60) ![](alongz_x600.png)  
 ![](az12345685x60) ![](az12345685x600.png)  
 ![](babybaby1111x60) ![](babybaby1111x600.png)  
